@@ -1,0 +1,3 @@
+vectorstore/chroma_db/*
+
+!vectorstore/chroma_db/*.sqlite3

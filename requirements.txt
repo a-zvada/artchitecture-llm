@@ -1,0 +1,9 @@
+accelerate
+langchain==0.3.27 
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.6
+langchain-community==0.3.31
+mimesis
+pytrovich
+transformers
+torch
